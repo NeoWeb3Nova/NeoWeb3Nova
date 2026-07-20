@@ -73,7 +73,7 @@
 | 项目 | 简介 | 技术栈 |
 |---|---|---|
 | [NeoDeFi](https://github.com/NeoWeb3Nova/NeoDeFi) | 链上资产管理 DeFi 平台，首产品为可铸造 / 赎回 / 质押的 Tokenized Index | Solidity, Foundry, TypeScript, Sepolia |
-| [opc-agent-treasury](https://github.com/NeoWeb3Nova/opc-agent-treasury) | 面向一人公司的 AI 员工财务 OS：为 AI Agent 发行可编程 CAW 支出卡，限制每一笔支出在可授权、可撤销、可审计边界内 | Python, FastAPI, React, CAW |
+| [opc-agent-treasury](https://github.com/NeoWeb3Nova/opc-agent-treasury) | 一人公司的 AI 员工财务 OS：为 AI Agent 发行可编程 CAW 支出卡，设置预算、限额、白名单与审计规则。获 AI × Web3 School 黑客松 **赛道季军 🥉** | Python, FastAPI, React, CAW |
 | [blackjack-web3.0](https://github.com/NeoWeb3Nova/blackjack-web3.0) | 奢华视觉的 Web3.0 二十一点游戏，支持多链钱包连接，整合 RainbowKit + Wagmi | Next.js, TypeScript, Tailwind, GameFi |
 | [signature-airdrop](https://github.com/NeoWeb3Nova/signature-airdrop) | 基于 ECDSA 签名的空投演示，含 Solidity 合约、NestJS 后端与 React/Vite 前端 | TypeScript, Solidity, NestJS |
 | [merkel-airdorp](https://github.com/NeoWeb3Nova/merkel-airdorp) | 机构级 Merkle Tree 空投领取门户，支持链上验证 | Solidity, React, Merkle Tree |
