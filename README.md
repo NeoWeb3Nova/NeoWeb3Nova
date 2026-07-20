@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span title="Web3 的尼奥">@NeoWeb3Nova</span>
+# Hi there, I'm Neo Web3 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 **Web3 链上 AI 探索者 · 智能合约开发者 · 一人公司 Agent 财务系统建造者**
 
