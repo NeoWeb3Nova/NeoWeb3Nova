@@ -83,10 +83,20 @@
 
 ## GitHub 数据
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeoWeb3Nova&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoWeb3Nova&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%">
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/NeoWeb3Nova?style=flat-square&logo=github&color=181717" alt="Followers">
+  <img src="https://img.shields.io/github/stars/NeoWeb3Nova?style=flat-square&logo=github&color=181717" alt="Stars">
+  <img src="https://img.shields.io/github/repositories/NeoWeb3Nova?style=flat-square&logo=github&color=181717" alt="Repositories">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/y/NeoWeb3Nova?style=flat-square&logo=github&color=2f81f7" alt="Commits">
+  <img src="https://img.shields.io/github/last-commit/NeoWeb3Nova/NeoWeb3Nova?style=flat-square&logo=github&color=2f81f7" alt="Last Commit">
+</p>
+
+<p align="center">
+  <code>Solidity</code> · <code>TypeScript</code> · <code>Python</code> · <code>Rust</code> · <code>Vue</code>
+</p>
 
 ---
 
