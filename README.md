@@ -70,21 +70,13 @@
 
 ## 精选项目
 
-<p align="left">
-  <a href="https://github.com/NeoWeb3Nova/NeoDeFi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeoWeb3Nova&repo=NeoDeFi&theme=default&hide_border=true" alt="NeoDeFi">
-  </a>
-  <a href="https://github.com/NeoWeb3Nova/opc-agent-treasury">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeoWeb3Nova&repo=opc-agent-treasury&theme=default&hide_border=true" alt="opc-agent-treasury">
-  </a>
-</p>
-
-| 项目 | 简介 | 标签 |
+| 项目 | 简介 | 技术栈 |
 |---|---|---|
-| [NeoDeFi](https://github.com/NeoWeb3Nova/NeoDeFi) | 链上资产管理 DeFi 平台，首产品为可铸造 / 赎回 / 质押的 Tokenized Index | Solidity, DeFi, Sepolia |
-| [opc-agent-treasury](https://github.com/NeoWeb3Nova/opc-agent-treasury) | 面向一人公司的 AI 员工财务 OS：为 AI Agent 发行可编程 CAW 支出卡，限制每一笔支出在可授权、可撤销、可审计边界内 | AI Agent, Treasury, CAW |
-| [Web3SummerInternshipProgram-MonadBuilderCamp](https://github.com/NeoWeb3Nova/Web3SummerInternshipProgram-MonadBuilderCamp) | Monad Builder Camp 暑期实习与黑客松交付记录，含 MOSS Agent 开源贡献 | Monad, Open Source, Hackathon |
-| [rustacean-coach](https://github.com/NeoWeb3Nova/rustacean-coach) | 基于费曼技巧的 Rust 学习教练 CLI | Rust, CLI, Education |
+| [NeoDeFi](https://github.com/NeoWeb3Nova/NeoDeFi) | 链上资产管理 DeFi 平台，首产品为可铸造 / 赎回 / 质押的 Tokenized Index | Solidity, Foundry, TypeScript, Sepolia |
+| [opc-agent-treasury](https://github.com/NeoWeb3Nova/opc-agent-treasury) | 面向一人公司的 AI 员工财务 OS：为 AI Agent 发行可编程 CAW 支出卡，限制每一笔支出在可授权、可撤销、可审计边界内 | Python, FastAPI, React, CAW |
+| [blackjack-web3.0](https://github.com/NeoWeb3Nova/blackjack-web3.0) | 奢华视觉的 Web3.0 二十一点游戏，支持多链钱包连接，整合 RainbowKit + Wagmi | Next.js, TypeScript, Tailwind, GameFi |
+| [signature-airdrop](https://github.com/NeoWeb3Nova/signature-airdrop) | 基于 ECDSA 签名的空投演示，含 Solidity 合约、NestJS 后端与 React/Vite 前端 | TypeScript, Solidity, NestJS |
+| [merkel-airdorp](https://github.com/NeoWeb3Nova/merkel-airdorp) | 机构级 Merkle Tree 空投领取门户，支持链上验证 | Solidity, React, Merkle Tree |
 | [delivery-mini-app](https://github.com/NeoWeb3Nova/delivery-mini-app) | 微信跑腿小程序，uni-app + Vue.js + uniCloud 双端配送 | Vue, Mini Program, uniCloud |
 
 ---
