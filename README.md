@@ -99,11 +99,23 @@
 
 ## 联系我
 
-- **个人主页**: [amshe.fun](https://amshe.fun)
-- **邮箱**: [neo.web3.nova@gmail.com](mailto:neo.web3.nova@gmail.com)
-- **X / Twitter**: [@NeoWeb3Nova](https://x.com/NeoWeb3Nova)
-- **YouTube**: [@NeoWeb3Nova](https://www.youtube.com/@NeoWeb3Nova)
-- **Telegram**: [@NeoWeb3Nova](https://t.me/NeoWeb3Nova)
-- **Discord**: `neo_web3_nova`
+如果你也在做 AI、Web3 或创作者工具，欢迎把你的项目发给我。我开放接洽合作、技术咨询、产品集成，以及值得放进仓库 showcase 的实验。
 
-> 开放接受 Web3 项目合作、咨询与全职机会。
+<table>
+  <tr>
+    <td align="center" width="36%">
+      <a href="https://amshe.fun"><img src="https://img.shields.io/badge/Website-amshe.fun-6E56CF?style=for-the-badge&logo=safari&logoColor=white" alt="Visit amshe.fun"></a><br>
+      <a href="https://x.com/NeoWeb3Nova"><img src="https://img.shields.io/badge/X-@NeoWeb3Nova-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow NeoWeb3Nova on X"></a><br>
+      <a href="https://t.me/neo_web3_nova"><img src="https://img.shields.io/badge/Telegram-neo_web3_nova-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Message neo_web3_nova on Telegram"></a><br>
+      <a href="https://www.youtube.com/@NeoWeb3Nova"><img src="https://img.shields.io/badge/YouTube-@NeoWeb3Nova-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube"></a><br>
+      <br>
+      <strong>微信·Web3的尼奥</strong><br>
+      <sub>扫码加好友，备注来意</sub>
+    </td>
+    <td align="center" width="64%">
+      <img src="https://raw.githubusercontent.com/NeoWeb3Nova/sticker-pack-maker-skill/master/media/wechat-neo.png" width="280" alt="Web3的尼奥微信二维码">
+    </td>
+  </tr>
+</table>
+
+> 等你一起交付有质感的 Web3 产品。
