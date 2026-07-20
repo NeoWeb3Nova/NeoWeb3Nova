@@ -81,22 +81,19 @@
 
 ---
 
-## GitHub 数据
+## 最近动态
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/NeoWeb3Nova?style=flat-square&logo=github&color=181717" alt="Followers">
-  <img src="https://img.shields.io/github/stars/NeoWeb3Nova?style=flat-square&logo=github&color=181717" alt="Stars">
-  <img src="https://img.shields.io/github/repositories/NeoWeb3Nova?style=flat-square&logo=github&color=181717" alt="Repositories">
-</p>
+- 🎉 [opc-agent-treasury](https://github.com/NeoWeb3Nova/opc-agent-treasury) 获 **AI × Web3 School Agentic Hackathon 赛道季军 🥉**
+- 🔧 持续优化 [NeoDeFi](https://github.com/NeoWeb3Nova/NeoDeFi) 链上资产管理协议
+- 🌱 参与 [Monad Builder Camp](https://github.com/NeoWeb3Nova/Web3SummerInternshipProgram-MonadBuilderCamp) 开源贡献
 
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/NeoWeb3Nova?style=flat-square&logo=github&color=2f81f7" alt="Commits">
-  <img src="https://img.shields.io/github/last-commit/NeoWeb3Nova/NeoWeb3Nova?style=flat-square&logo=github&color=2f81f7" alt="Last Commit">
-</p>
+---
 
-<p align="center">
-  <code>Solidity</code> · <code>TypeScript</code> · <code>Python</code> · <code>Rust</code> · <code>Vue</code>
-</p>
+## 为什么选择我
+
+- 从第一性原理出发设计协议，而不是简单 fork 已有模板
+- 对链上 AI、DeFi 原理和 AI Agent 财务有深入实践
+- 快速原型与产品化之间找平衡，适合小团队高密度输出
 
 ---
 
