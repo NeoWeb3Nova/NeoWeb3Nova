@@ -44,7 +44,7 @@
 | **链上 AI** | AI Agent、可验证身份、链上决策 | 持续研究与实验 |
 | **DeFi 资产协议** | Tokenized Index、Mint/Redeem、Staking | [NeoDeFi](https://github.com/NeoWeb3Nova/NeoDeFi) |
 | **AI 员工财务 OS** | CAW 支出卡、可编程预算、可撤销授权 | [opc-agent-treasury](https://github.com/NeoWeb3Nova/opc-agent-treasury) |
-| **Monad 生态建设** | 开源贡献、Builder Camp、MOSS Agent 核心 | [Web3SummerInternshipProgram-MonadBuilderCamp](https://github.com/NeoWeb3Nova/Web3SummerInternshipProgram-MonadBuilderCamp) |
+| **Monad 生态建设** | 并行 Agent 微任务、链上托管结算、可验证执行 | [AntForge on Monad](https://github.com/NeoWeb3Nova/monad-agent-ant-workshop) |
 
 ---
 
